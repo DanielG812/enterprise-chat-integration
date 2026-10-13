@@ -1,0 +1,14 @@
+# Archivos y carpetas sensibles
+.config/
+.env
+config.php
+secrets.json
+*.pem
+*.key
+iniciar.sh
+.bash_history
+.ssh/
+
+# Archivos temporales
+.DS_Store
+Thumbs.db

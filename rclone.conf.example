@@ -1,0 +1,5 @@
+[sharepoint]
+type = onedrive
+token = {"access_token":"TU_TOKEN_AQUI","token_type":"Bearer"}
+drive_id = TU_DRIVE_ID_AQUI
+drive_type = sharePoint
